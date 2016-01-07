@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Symbol-Maps
 ===========
 
@@ -27,3 +28,7 @@ TO-DO List
 ==========
 
 * Build a select list to use the instances at instances/ and not require the user to load a file. 
+=======
+# CoordinatesPolygonMap
+ Adapted design, which calculates whether a coordinated belongs to a certain polygon.
+>>>>>>> b6531c22c00a13b0ccb3e71e92b9ba12a1abd826
